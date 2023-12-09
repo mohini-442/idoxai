@@ -1,0 +1,140 @@
+@import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@200;300;400;500;600;700;800&display=swap');
+
+:root {
+    /* font-size */
+    --fs-s: 15px;
+    --fs-sm: 11px;
+    --fs-md: 16px;
+    --fs-lg: 18px;
+    --fs-xl: 29px;
+    --fs-xxl: 36px;
+    --fs-2xl: 34px;
+    /* color  */
+    --off-white: #FBFDFF;
+    --white: #FFF;
+    --black:#000;
+    --blue: #0259ac;
+    --gray: #B0B6BB;
+    --color-gry: #caced2;
+    --light-blue: #0389ff;
+    --dark-blue: #020d15;
+    --dark-black: #021728;
+    --dark-gray: #98a1a9;
+    --bs-gry: #b1b5b9;
+    --border-color: #273138;
+    --offblue: #021423;
+    --ellipse: #06f;
+
+    /* font-family   */
+    --ff-Plus-Jakarta: Plus Jakarta Sans;
+
+}
+
+/* font-family  */
+.ff-PlusJakarta {
+    font-family: var(--ff-Plus-Jakarta);
+
+}
+
+/* line-height  */
+.lh-126 {
+    line-height: 126%;
+}
+
+.lh-170 {
+    line-height: 170%;
+}
+
+.lh-121 {
+    line-height: 121%;
+}
+
+.lh-140 {
+    line-height: 140%;
+}
+
+/* font-size  */
+.fs-s {
+    font-size: var(--fs-s);
+}
+
+.fs-sm {
+    font-size: var(--fs-sm);
+}
+
+.fs-md {
+    font-size: var(--fs-md);
+}
+
+.fs-lg {
+    font-size: var(--fs-lg);
+}
+
+.fs-xl {
+    font-size: var(--fs-xl);
+}
+
+.fs-xxl {
+    font-size: var(--fs-xxl);
+}
+
+.fs-2xl {
+    font-size: var(--fs-2xl);
+}
+
+/* color  */
+.white {
+    color: var(--white)
+}
+
+.off-white {
+    color: var(--off-white);
+}
+
+.bg-dark-blue {
+    background: var(--dark-blue);
+}
+
+.blue {
+    color: var(--blue);
+}
+
+.light-blue {
+    background: var(--light-blue);
+}
+
+.text-light-blue {
+    color: var(--light-blue);
+}
+
+.blue {
+    background: var(--blue);
+}
+
+.gray {
+    color: var(--gray);
+}
+
+.dark-gray {
+    color: var(--dark-gray);
+}
+
+.dark-black {
+    background: var(--dark-black);
+}
+
+.color-gray {
+    color: var(--color-gry);
+}
+
+.bs-gry {
+    color: var(--bs-gry);
+}
+
+.bg-gry {
+    background: var(--bs-gry);
+}
+
+.border-color {
+    background-color: var(--border-color);
+}
