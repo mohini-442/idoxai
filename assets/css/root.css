@@ -7,12 +7,12 @@
     --fs-md: 16px;
     --fs-lg: 18px;
     --fs-xl: 29px;
-    --fs-xxl: 36px;
-    --fs-2xl: 34px;
+    --fs-xxl: 35px;
+    --fs-2xl: 36px;
     /* color  */
     --off-white: #FBFDFF;
     --white: #FFF;
-    --black:#000;
+    --black: #000;
     --blue: #0259ac;
     --gray: #B0B6BB;
     --color-gry: #caced2;
@@ -24,6 +24,7 @@
     --border-color: #273138;
     --offblue: #021423;
     --ellipse: #06f;
+    --border: #273138;
 
     /* font-family   */
     --ff-Plus-Jakarta: Plus Jakarta Sans;

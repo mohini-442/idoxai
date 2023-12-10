@@ -18,7 +18,7 @@ window.addEventListener('scroll', function () {
 })
 // preloader------
 setTimeout(() => {
-    document.getElementById("preloader").classList.add("opacity-0");
+    document.getElementById("preloader").classList.add("d-none");
     document.getElementById("preloader").classList.add("pointer_event_none")
     document.body.classList.remove("overflow-hidden")
 }, 2000);
